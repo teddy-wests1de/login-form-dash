@@ -1,0 +1,16 @@
+/* Stylesheet for Login Form */
+:root {
+  --bg-color-primary: rgb(73, 134, 105);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-color-primary);
+}

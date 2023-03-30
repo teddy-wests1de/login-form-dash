@@ -1,0 +1,16 @@
+User login form & dashboard responsive design - Mobile First:
+-------------------------------------------------------------
+
+Create Login form with Sign in and register buttons.
+Two text boxes for username and password
+
+register button opens register modal dialog box.
+register modal occupies full screen with 50 - 70% opacity.
+
+register box consists of:
+-firstname, lastname, username, password & confirm password.
+-register & cancel buttons. cancel button closes dialog.
+-close button in top right corner, esc key and click on transparent part of modal also closes dialog.
+
+after register users are able to login.
+after login users are presented with a dashboard and welcome text.
